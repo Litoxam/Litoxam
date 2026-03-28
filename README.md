@@ -1,4 +1,5 @@
-<img width="4128" height="1024" alt="Gemini_Generated_Image_aa1kxyaa1kxyaa1k" src="https://github.com/user-attachments/assets/e22e9c47-fe42-4569-a823-ea7778e78192" />
+<img width="1584" height="396" alt="Xam" src="https://github.com/user-attachments/assets/bf976fda-e45a-4e23-a4a5-622b9978d618" />
+
 
 
 <h1 align="center">My name is Maxime BERNIER aka Lito</h1>
