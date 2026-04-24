@@ -9,7 +9,7 @@
   👥 Part of cohort <b>C29</b><br>
   🧠 Currently learning <b>C Language</b><br>
   💭 Aspiring <b>Full Stack Developer</b><br>
-  ⚔️ I'm also a <b>jungle main in LoL (yeah... i'm this guy)</b>
+  🎸 <b>Linkin Park</b> and <b>TwentyOne Pilots</b> fan here ! 🤘</b>
 </p>
 <hr>
 <h1 align="center">TECHNOLOGY</h1>
