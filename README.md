@@ -23,6 +23,8 @@
 </p>
 
 <hr>
-<h1 align="center">📈 Progression (27/03/26)📈</h1>
-<p align="center"><img width="748" height="401" alt="Capture d&#39;écran 2026-03-27 101318" src="https://github.com/user-attachments/assets/643b1283-643f-4cfd-b89f-e80873827ece" style="width: 400px; height: auto;"  />
-</p>
+<h1 align="center">📈 Progression 📈</h1>
+<h2 align="center"><i>(27/03/26)</i></h2>
+<p align="center"><img width="748" height="401" alt="Capture d&#39;écran 2026-03-27 101318" src="https://github.com/user-attachments/assets/643b1283-643f-4cfd-b89f-e80873827ece" style="width: 400px; height: auto;"  /></p>
+<h2 align="center"><i>(24/04/26)</i></h2>
+<p align="center"><img width="753" height="327" alt="image" src="https://github.com/user-attachments/assets/d2b3b69a-b331-443b-b620-f6c6379819f5" style="width: 400px; height: auto;" /></p>
