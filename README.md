@@ -1,32 +1,53 @@
-<img width="1584" height="396" alt="MAXIME BERNIER (1)" src="https://github.com/user-attachments/assets/1f705eb4-af44-4057-ae39-85bbf6947568" />
-
-
-
-
-
-<h1 align="center">My name is Maxime BERNIER aka Lito</h1>
-<h3 align="center">I'm 29 years old and i'm a french student from Holberton School !</h3>
-<hr>
 <p align="center">
-  👥 Part of cohort <b>C29</b><br>
-  🧠 Currently learning <b>C Language</b><br>
-  💭 Aspiring <b>Full Stack Developer</b><br>
-  🎸 <b>Linkin Park</b> and <b>TwentyOne Pilots</b> fan here ! 🤘</b>
+  <img width="1584" height="396" alt="MAXIME BERNIER" src="https://github.com/user-attachments/assets/1f705eb4-af44-4057-ae39-85bbf6947568" />
 </p>
-<hr>
-<h1 align="center">TECHNOLOGY</h1>
+
 <p align="center">
- <img width="180" height="202" alt="C_Logo" src="https://github.com/user-attachments/assets/492d5cd7-aea6-41e4-a94b-88df6865681d" />
-
-</p>
-<hr>
-<h1 align="center">STATS</h1>
-<p align="center"> <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Litoxam&amp;theme=gotham&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" alt="Litoxam"> </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF8800&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Python+%7C+Java+Learner;Holberton+School+France+C29" />
 </p>
 
-<hr>
-<h1 align="center">📈 Progression 📈</h1>
-<h2 align="center"><i>(27/03/26)</i></h2>
-<p align="center"><img width="748" height="401" alt="Capture d&#39;écran 2026-03-27 101318" src="https://github.com/user-attachments/assets/643b1283-643f-4cfd-b89f-e80873827ece" style="width: 400px; height: auto;"  /></p>
-<h2 align="center"><i>(24/04/26)</i></h2>
-<p align="center"><img width="753" height="327" alt="image" src="https://github.com/user-attachments/assets/d2b3b69a-b331-443b-b620-f6c6379819f5" style="width: 400px; height: auto;" /></p>
+<h1 align="center">About Me</h1>
+
+<p align="center">
+👥 Member of cohort C29 - Holberton School France<br>
+🧠 Currently learning Python & Java<br>
+💭 Aspiring Full-Stack Developer<br>
+🎸 Linkin Park and Twenty One Pilots fan 🤘
+</p>
+
+<h1 align="center">🌐 Socials</h1>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/maxime-bernier-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://medium.com/@litoxam">
+  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white">
+</a>
+</p>
+
+<h1 align="center">💻 Tech Stack</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
+
+<h1 align="center">📊 GitHub Stats</h1>
+
+<p align="center">
+
+  <img src="https://streak-stats.demolab.com/?user=Litoxam&theme=dark" />
+  <br><br>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Litoxam&theme=dark&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Litoxam&icon=5&color=7">
+</p>
