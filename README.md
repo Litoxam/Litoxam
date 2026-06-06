@@ -1,4 +1,6 @@
-<img width="1584" height="396" alt="Xam" src="https://github.com/user-attachments/assets/bf976fda-e45a-4e23-a4a5-622b9978d618" />
+<img width="1584" height="396" alt="MAXIME BERNIER (1)" src="https://github.com/user-attachments/assets/1f705eb4-af44-4057-ae39-85bbf6947568" />
+
+
 
 
 
