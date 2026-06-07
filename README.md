@@ -49,5 +49,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Litoxam&icon=5&color=7">
+  <img src="https://komarev.com/ghpvc/?username=Litoxam&icon=5">
 </p>
